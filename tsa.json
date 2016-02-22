@@ -1,45 +1,39 @@
-{ 
-"wallpapers": 
-	[ 
+{
+	"wallpapers": [
 		{
+			"name": "wallOne",
 			"author": "TSA. Studios",
 			"url": "http://i.imgur.com/FECRwfQ.png",
-			"name": "Wall1"
-			"dimensions": "",
-			"copyright": ""
+			"dimensions": "3200 x 2560",
+			"copyright": "TSA. Studios"
 		},
 		{
+			"name": "wallTwo",
 			"author": "TSA. Studios",
 			"url": "http://i.imgur.com/97LWkOt.png",
-			"name": "wall3"
-			"dimensions": "",
-			"copyright": ""
-		
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2016 TSA.Studios. All rights reserved."
 		},
 		{
+			"name": "wallFour",
 			"author": "TSA. Studios",
 			"url": "http://i.imgur.com/sFdAdtO.png",
-			"name": "wall4"
-			"dimensions": "",
-			"copyright": ""
-		
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2016 TSA. Studios. All rights reserved."
 		},
 		{
+			"name": "wallFive",
 			"author": "TSA. Studios",
 			"url": "http://i.imgur.com/LLdMkTG.png",
-			"name": "wall5"
-			"dimensions": "",
-			"copyright": ""
-		
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2016 TSA. Studios. All rights reserved."
 		},
 		{
+			"name": "wallSix",
 			"author": "TSA. Studios",
 			"url": "http://i.imgur.com/BgMqqOm.png",
-			"name": "wall6"
-			"dimensions": "",
-			"copyright": ""
-
+			"dimensions": "3200 x 2560",
+			"copyright": "Copyright ¸ 2016 TSA. Studios. All rights reserved."
 		}
-		 
 	]
 }
