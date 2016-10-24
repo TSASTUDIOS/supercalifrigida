@@ -34,6 +34,34 @@
 			"url": "http://i.imgur.com/BgMqqOm.png",
 			"dimensions": "3200 x 2560",
 			"copyright": "Copyright ¸ 2016 TSA. Studios. All rights reserved."
+		},
+		{
+			"name": "sunSet",
+			"author": "TSA. Studios",
+			"url": "http://i.imgur.com/AKggMhy.jpg",
+			"dimensions": "2048 x 1536",
+			"copyright": "Copyright ¸ 2016 TSA. Studios. All rights reserved."
+		},
+		{
+			"name": "sunSetTwo",
+			"author": "TSA. Studios",
+			"url": "http://i.imgur.com/9nltHi3.jpg",
+			"dimensions": "2048 x 1536",
+			"copyright": "Copyright ¸ 2016 TSA. Studios. All rights reserved."
+		},
+		{
+			"name": "drop",
+			"author": "TSA. Studios",
+			"url": "http://i.imgur.com/7UZI7N4.jpg",
+			"dimensions": "1536 x 2048",
+			"copyright": "Copyright ¸ 2016 TSA. Studios. All rights reserved."
+		},
+		{
+			"name": "sea",
+			"author": "TSA. Studios",
+			"url": "http://i.imgur.com/pDiHwga.jpg",
+			"dimensions": "1536 x 2048",
+			"copyright": "Copyright ¸ 2016 TSA. Studios. All rights reserved."
 		}
 	]
 }
