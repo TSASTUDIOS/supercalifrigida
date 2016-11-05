@@ -83,6 +83,28 @@
 			"url": "http://i.imgur.com/Wx8ES68.png",
 			"dimensions": "1536 x 2048",
 			"copyright": "Copyright ¸ 2016 TSA. Studios. All rights reserved."
+		},
+		{
+			"name": "Clouds",
+			"author": "TSA. Studios",
+			"url": "http://i.imgur.com/SmbbW73.jpg",
+			"dimensions": "5760 x 3840",
+			"copyright": "Copyright ¸ 2016 TSA. Studios. All rights reserved."
+		},
+		{
+			"name": "Ballon",
+			"author": "TSA. Studios",
+			"url": "http://i.imgur.com/Kyl8W7F.jpg",
+			"dimensions": "3648 x 5472",
+			"copyright": "Copyright ¸ 2016 TSA. Studios. All rights reserved."
+		},
+		{
+			"name": "Lightning",
+			"author": "TSA. Studios",
+			"url": "http://i.imgur.com/5Wz5Qyt.jpg",
+			"dimensions": "5184 x 3456",
+			"copyright": "Copyright ¸ 2016 TSA. Studios. All rights reserved."
+			
 		}
 	]
 }
