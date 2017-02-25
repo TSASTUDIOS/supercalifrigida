@@ -16,14 +16,14 @@
             "name":"NightRoad",
             "author":"Unsplash",
             "url":"http://i.imgur.com/AqeCIlm.jpg",
-            "collections":"landscapes,"
+            "collections":"landscapes"
         },
         {
             "name":"Bridge",
             "author":"Unsplash",
             "url":"http://i.imgur.com/aNEYId5.jpg",
             "dimensions":"3200x2560",
-            "collections":"landscapes,"
+            "collections":"landscapes"
         },
         {
             "author":"Unsplash",
@@ -31,7 +31,7 @@
             "name":"Forest",
             "dimensions":"1280x720",
             "copyright":"Credits to its creator",
-            "collections":"landscapes,"
+            "collections":"landscapes"
         },
         {
             "name":"Lambo",
@@ -40,7 +40,7 @@
             "thumbnail":"http://i.imgur.com/AJaPawJ.jpg",
             "dimensions":"3200x2560",
             "copyright":"Unsplash",
-            "collections":"cars,"
+            "collections":"cars"
         },
         {
             "name":"Jaguar",
@@ -49,7 +49,7 @@
             "thumbnail":"http://i.imgur.com/Kwi408O.jpg",
             "dimensions":"3200x2560",
             "copyright":"Unsplash",
-            "collections":"cars,"
+            "collections":"cars"
        }
     ]
 }
