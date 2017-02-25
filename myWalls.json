@@ -40,7 +40,7 @@
             "thumbnail":"http://i.imgur.com/AJaPawJ.jpg",
             "dimensions":"3200x2560",
             "copyright":"Unsplash",
-            "collections":"cars"
+            "collections":"cars,featured"
         },
         {
             "name":"Jaguar",
@@ -49,7 +49,7 @@
             "thumbnail":"http://i.imgur.com/Kwi408O.jpg",
             "dimensions":"3200x2560",
             "copyright":"Unsplash",
-            "collections":"cars"
+            "collections":"cars,featured"
        }
     ]
 }
