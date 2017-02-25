@@ -31,7 +31,7 @@
             "name":"Forest",
             "dimensions":"1280x720",
             "copyright":"Credits to its creator",
-            "collections":"landscapes"
+            "collections":"featured,landscapes"
         },
         {
             "name":"Lambo",
@@ -40,7 +40,7 @@
             "thumbnail":"http://i.imgur.com/AJaPawJ.jpg",
             "dimensions":"3200x2560",
             "copyright":"Unsplash",
-            "collections":"cars,featured"
+            "collections":"featured,cars"
         },
         {
             "name":"Jaguar",
@@ -49,7 +49,7 @@
             "thumbnail":"http://i.imgur.com/Kwi408O.jpg",
             "dimensions":"3200x2560",
             "copyright":"Unsplash",
-            "collections":"cars,featured"
+            "collections":"featured,cars"
        }
     ]
 }
